@@ -23,7 +23,10 @@ Follow the steps below to run the FastAPI app with Docker:
 
 1. ### Clone the repository
 
-       git clone https://github.com/Herc-Ch/ml_assignment.git
+       git clone https://github.com/Herc-Ch/ml_assignment.git\
+   
+   and
+   
        cd ml_assignment
    
 1. ### Build the Docker image
@@ -57,6 +60,9 @@ Follow the steps below to run the FastAPI app with Docker:
 
 
         http://localhost:8000/feature_engineering
+   
+   and
+   
         http://localhost:8000/health
     The API endpoint /feature_engineering will return the feature-engineered data in JSON format and the health status respectively.
 
