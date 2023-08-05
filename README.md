@@ -23,7 +23,7 @@ Follow the steps below to run the FastAPI app with Docker:
 
 1. ### Clone the repository
 
-       git clone https://github.com/Herc-Ch/ml_assignment.git\
+       git clone https://github.com/Herc-Ch/ml_assignment.git
    
    and
    
