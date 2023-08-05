@@ -1,0 +1,9 @@
+2023-08-05 12:41:02,896 - app.main - INFO - API endpoint for health status (GET) called.
+2023-08-05 12:41:02,915 - app.main - INFO - API endpoint for feature engineering (POST) called.
+2023-08-05 12:41:02,942 - app.main - INFO - Feature engineering results returned.
+2023-08-05 12:48:26,787 - app.main - INFO - API endpoint for health status (GET) called.
+2023-08-05 12:48:26,808 - app.main - INFO - API endpoint for feature engineering (POST) called.
+2023-08-05 12:48:26,835 - app.main - INFO - Feature engineering results returned.
+2023-08-05 12:49:32,937 - app.main - INFO - API endpoint for health status (GET) called.
+2023-08-05 12:49:32,963 - app.main - INFO - API endpoint for feature engineering (POST) called.
+2023-08-05 12:49:32,997 - app.main - INFO - Feature engineering results returned.
