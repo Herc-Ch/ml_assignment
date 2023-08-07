@@ -53,6 +53,7 @@ Follow the steps below to run the FastAPI app with Docker:
        docker-compose exec app pytest .
     
     You should see the results on the console (2 passed).
+   ![alt text](https://github.com/Herc-Ch/ml_assignment/blob/main/tests.png?raw=true)
 
 1. ### Access the FastAPI app
 
@@ -67,5 +68,5 @@ Follow the steps below to run the FastAPI app with Docker:
         http://localhost:8000/health
 
     ![alt text](https://github.com/Herc-Ch/ml_assignment/blob/main/health.png?raw=true)
-    The API endpoint /feature_engineering will return the feature-engineered data in JSON format and the health status respectively.
+    The API endpoints will return the feature-engineered data in JSON format and the health status respectively as shown at the images above.
 
