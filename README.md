@@ -60,9 +60,12 @@ Follow the steps below to run the FastAPI app with Docker:
 
 
         http://localhost:8000/feature_engineering
-   
+
+   ![alt text](https://github.com/Herc-Ch/ml_assignment/blob/main/Screenshot%202023-08-07%20163715.png?raw=true)
    and
    
         http://localhost:8000/health
+
+    ![alt text](https://github.com/Herc-Ch/ml_assignment/blob/main/health.png?raw=true)
     The API endpoint /feature_engineering will return the feature-engineered data in JSON format and the health status respectively.
 
